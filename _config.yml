@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: liantdev/liantdev.github.io
 github_url: https://github.com/liantdev
 url: https://liantdev.github.io
-enforce_ssl: liantdev.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
